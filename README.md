@@ -17,9 +17,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 
-[![Chiraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjock&count_private=true&theme=dark)](https://github.com/devjock/github-readme-stats)
+[![Chiraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraagbangera&count_private=true&theme=dark)](https://github.com/chiraagbangera/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devjock&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraagbangera&theme=dark)](https://git.io/streak-stats)
 
 ### Contact Info:
 <p> 
